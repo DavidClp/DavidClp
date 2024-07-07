@@ -17,7 +17,7 @@
 
 - 📫 Como entrar em contato comigo **davidclipel001@gmail.com**
 
-- ⚡ Curiosidade **Estou me esforçando para programar e programar para me desestressar**
+- ⚡ Curiosidade **Me estresso programando e programo para me desestressar**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
