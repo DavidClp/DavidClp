@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGVw1mMcAVdvQ/profile-displaybackgroundimage-shrink_350_1400/0/1715046335647?e=1726099200&v=beta&t=SYJnvVBkD21atY5qgxaNsqmBATgs-M-LbHb7fbvkShY)]
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQGVw1mMcAVdvQ/profile-displaybackgroundimage-shrink_350_1400/0/1715046335647?e=1726099200&v=beta&t=SYJnvVBkD21atY5qgxaNsqmBATgs-M-LbHb7fbvkShY)
 <!-- 
 <h1 align="center">Olá 👋, eu sou David Balk Clipel</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3> -->
